@@ -2,6 +2,10 @@
 
 attempting to do art and learn python
 
+```bash
+$ vsk run <folder>
+```
+
 # Resources
 
 ## Sites
