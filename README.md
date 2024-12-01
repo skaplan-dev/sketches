@@ -3,7 +3,9 @@
 attempting to do art and learn python
 
 ```bash
-$ vsk run <folder>
+$ poetry install
+$ poetry shell
+$ poetry run vsk run <folder>
 ```
 
 # Resources
